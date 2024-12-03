@@ -3,6 +3,7 @@
 ## Project Overview
 
 A responsive Tech landing page created using Tailwind CSS, showcasing my project during a web development bootcamp. Developed with a Figma design
+(Link Figma)[https://www.figma.com/design/blXZqhpggkfbxt9Tmx5v87/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design-(Community)?node-id=5-573&t=yF8EGoj8qOoQdBvd-4].
 
 ## Key Features
 
@@ -17,7 +18,7 @@ A responsive Tech landing page created using Tailwind CSS, showcasing my project
 - Tailwind CSS
 - JavaScript
 
-## 🛠️ Project Setup
+## Project Setup
 
 - Prerequisites
 - Node.js (v14+)
